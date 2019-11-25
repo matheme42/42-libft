@@ -2,9 +2,8 @@
 I start my cursus 42 with a project name libft
 I put the subject in the folder name ressourse/subject
 
-# 42-libft
 2018-10-08 --> 2018-10-18
-my own library
+# 42-libft my own library
 ![Screenshot](ressources/img/library.png)
 
 ## Foreword
